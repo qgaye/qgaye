@@ -1,1 +1,1 @@
-![pic](https://github.com/qgaye/qgaye/blob/master/image.jpg)
+[![qgaye's github stats](https://github-readme-stats.vercel.app/api?username=qgaye)](https://github.com/anuraghazra/github-readme-stats)
